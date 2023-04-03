@@ -1,0 +1,176 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+main {
+  width: 960px;
+  margin: 50px auto;
+}
+
+.list1 {
+background:#d3d3d3; /*背景色の指定*/
+padding-top:20px;
+padding-left: 20px;
+padding-bottom: 20px;
+color: #696969;
+}
+
+.list1 p {
+margin:0;
+padding:0;
+}
+
+.list2 {
+background:#ffffff; /*背景色の指定*/
+padding-top:20px;
+padding-left: 20px;
+padding-bottom: 20px;
+color: #696969;
+font-size: 15px;
+}
+
+.list2 p {
+margin:0;
+padding:0;
+}
+
+.list3 {
+background:#d3d3d3; /*背景色の指定*/
+padding-top:20px;
+padding-left: 20px;
+padding-bottom: 20px;
+color: #696969;
+}
+
+.list3 p {
+margin:0;
+padding:0;
+}
+
+.list4 {
+background:#ffffff; /*背景色の指定*/
+padding-top:20px;
+padding-left: 20px;
+padding-bottom: 20px;
+color: #696969;
+}
+
+.list4 p {
+margin:0;
+padding:0;
+}
+
+.list5 {
+background:#d3d3d3; /*背景色の指定*/
+padding-top:20px;
+padding-left: 20px;
+padding-bottom: 20px;
+color: #696969;
+}
+
+.list5 p {
+margin:0;
+padding:0;
+}
+
+.list6 {
+background:#ffffff; /*背景色の指定*/
+padding-top:20px;
+padding-left: 20px;
+padding-bottom: 20px;
+color: #696969;
+}
+
+.list6 p {
+margin:0;
+padding:0;
+}
+
+.list7 {
+background:#d3d3d3; /*背景色の指定*/
+padding-top:20px;
+padding-left: 20px;
+padding-bottom: 20px;
+color: #696969;
+}
+
+.list7 p {
+margin:0;
+padding:0;
+}
+
+.box-list {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.box1 {
+  width: 30%;
+  height: 200px;
+  background-color: #ff8c00;
+  margin-top: 50px;
+  margin-right: 5%;
+  margin-bottom: 40px;
+}
+
+.box2 {
+  width: 30%;
+  height: 200px;
+  background-color: #ffd700;
+  margin-top: 50px;
+  margin-right: 5%;
+  margin-bottom: 40px;
+}
+
+.box3 {
+  width: 30%;
+  height: 200px;
+  background-color: #ffd700;
+  margin-top: 50px;
+  margin-bottom: 40px;
+}
+
+.box4 {
+  width: 30%;
+  height: 200px;
+  background-color: #ffd700;
+  margin-right: 5%;
+  margin-bottom: 40px;
+}
+
+.box5 {
+  width: 30%;
+  height: 200px;
+  background-color: #ff8c00;
+  margin-right: 5%;
+  margin-bottom: 40px;
+}
+
+.box6 {
+  width: 30%;
+  height: 200px;
+  background-color: #ffd700;
+  margin-bottom: 40px;
+}
+
+.box7 {
+  width: 30%;
+  height: 200px;
+  background-color: #ffd700;
+  margin-right: 5%;
+}
+
+.box8 {
+  width: 30%;
+  height: 200px;
+  background-color: #ffd700;
+  margin-right: 5%;
+}
+
+.box9 {
+  width: 30%;
+  height: 200px;
+  background-color: #ff8c00;
+}
